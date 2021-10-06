@@ -15,3 +15,5 @@ Collect pizza to earn points and reach the end of the level to deliver the pizza
 ### How To Play ###
 
 https://chinomun.itch.io/eteats-final
+
+![et-eats-poster](https://user-images.githubusercontent.com/33261445/136135813-79d15257-9042-4a7b-a6e6-b2f3b32c1475.png)
