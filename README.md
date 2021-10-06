@@ -6,7 +6,7 @@
 
 ```W A S D``` to move and space bar to jump/double jump
 
-Hold space bar on pink walls to walk on them (Hit green walls to gain an extra jump while in the air)
+Hold space bar on pink walls to walk on them (Run into green walls to gain an extra jump while in the air)
 
 ## Objectives ##
 
