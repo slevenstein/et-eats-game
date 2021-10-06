@@ -8,9 +8,9 @@
 
 Hold space bar on pink walls to walk on them (Run into green walls to gain an extra jump while in the air)
 
-## Objectives ##
+### Objectives ###
 
-Collect pizza to earn points and reach the end of levels to deliver that pizza.
+Collect pizza to earn points and reach the end of the level to deliver the pizza
 
 ### How To Play ###
 
