@@ -1,6 +1,6 @@
 ## ET Eats ##
 
-3D Platform game made by Simon Levenstein, Jake Mayeux, Ian Chan, and Jake Howard
+3D Platformer game made by Simon Levenstein, Jake Mayeux, Ian Chan, and Jake Howard
 
 ### Controls ###
 
