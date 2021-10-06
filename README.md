@@ -12,6 +12,10 @@ Hold space bar on pink walls to walk on them (Run into green walls to gain an ex
 
 Collect pizza to earn points and reach the end of the level to deliver the pizza
 
+### Trailer ###
+
+https://www.youtube.com/watch?v=ciEH74SM508
+
 ### How To Play ###
 
 https://chinomun.itch.io/eteats-final
